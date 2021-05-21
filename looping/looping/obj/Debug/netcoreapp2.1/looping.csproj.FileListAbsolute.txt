@@ -1,0 +1,11 @@
+C:\Users\Anam Peerzada\Desktop\training\looping\looping\looping\obj\Debug\netcoreapp2.1\looping.csprojAssemblyReference.cache
+C:\Users\Anam Peerzada\Desktop\training\looping\looping\looping\obj\Debug\netcoreapp2.1\looping.csproj.CoreCompileInputs.cache
+C:\Users\Anam Peerzada\Desktop\training\looping\looping\looping\obj\Debug\netcoreapp2.1\looping.AssemblyInfoInputs.cache
+C:\Users\Anam Peerzada\Desktop\training\looping\looping\looping\obj\Debug\netcoreapp2.1\looping.AssemblyInfo.cs
+C:\Users\Anam Peerzada\Desktop\training\looping\looping\looping\bin\Debug\netcoreapp2.1\looping.deps.json
+C:\Users\Anam Peerzada\Desktop\training\looping\looping\looping\bin\Debug\netcoreapp2.1\looping.runtimeconfig.json
+C:\Users\Anam Peerzada\Desktop\training\looping\looping\looping\bin\Debug\netcoreapp2.1\looping.runtimeconfig.dev.json
+C:\Users\Anam Peerzada\Desktop\training\looping\looping\looping\bin\Debug\netcoreapp2.1\looping.dll
+C:\Users\Anam Peerzada\Desktop\training\looping\looping\looping\bin\Debug\netcoreapp2.1\looping.pdb
+C:\Users\Anam Peerzada\Desktop\training\looping\looping\looping\obj\Debug\netcoreapp2.1\looping.dll
+C:\Users\Anam Peerzada\Desktop\training\looping\looping\looping\obj\Debug\netcoreapp2.1\looping.pdb

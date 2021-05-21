@@ -1,0 +1,11 @@
+C:\Users\Anam Peerzada\Desktop\training\inheritance\inheritance\inheritance\obj\Debug\netcoreapp2.1\inheritance.csprojAssemblyReference.cache
+C:\Users\Anam Peerzada\Desktop\training\inheritance\inheritance\inheritance\obj\Debug\netcoreapp2.1\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Anam Peerzada\Desktop\training\inheritance\inheritance\inheritance\obj\Debug\netcoreapp2.1\inheritance.AssemblyInfoInputs.cache
+C:\Users\Anam Peerzada\Desktop\training\inheritance\inheritance\inheritance\obj\Debug\netcoreapp2.1\inheritance.AssemblyInfo.cs
+C:\Users\Anam Peerzada\Desktop\training\inheritance\inheritance\inheritance\bin\Debug\netcoreapp2.1\inheritance.deps.json
+C:\Users\Anam Peerzada\Desktop\training\inheritance\inheritance\inheritance\bin\Debug\netcoreapp2.1\inheritance.runtimeconfig.json
+C:\Users\Anam Peerzada\Desktop\training\inheritance\inheritance\inheritance\bin\Debug\netcoreapp2.1\inheritance.runtimeconfig.dev.json
+C:\Users\Anam Peerzada\Desktop\training\inheritance\inheritance\inheritance\bin\Debug\netcoreapp2.1\inheritance.dll
+C:\Users\Anam Peerzada\Desktop\training\inheritance\inheritance\inheritance\bin\Debug\netcoreapp2.1\inheritance.pdb
+C:\Users\Anam Peerzada\Desktop\training\inheritance\inheritance\inheritance\obj\Debug\netcoreapp2.1\inheritance.dll
+C:\Users\Anam Peerzada\Desktop\training\inheritance\inheritance\inheritance\obj\Debug\netcoreapp2.1\inheritance.pdb

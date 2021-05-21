@@ -1,0 +1,74 @@
+﻿body {
+        margin:0;
+        padding:0;
+}
+*{
+    font-family:'Bauhaus 93';
+}
+.container-fluid{
+    width:100vw;
+    height:100vh;
+    background-image:url(BgImage/Backimage.jpg);
+}
+
+    .container-fluid nav a {
+            text-decoration:none;
+            font-size:3vw;
+            color:white;
+    }
+
+    .container-fluid nav .btn{
+        float:right;
+        background-color:#fff568;
+        border:0;
+        color:black;
+        font-size:1.5vw;
+    }
+
+    .cols1{
+
+        margin-top:22vh;
+    }
+
+.col-6 input[type=text], input[type=password] {
+    margin-left: 11vw;
+    width: 37vw;
+    border: 0;
+    border-bottom: 3px solid white;
+    border-left: 3px solid white;
+    border-right: 3px solid white;
+    background-color: transparent;
+    padding-top: 2vh;
+    color: white;
+    margin-top:4vh;
+    font-size:3vw;
+    padding-left:12vw;
+    padding-right:12vw;
+}
+
+input[type=text]::-webkit-input-placeholder{
+
+    color:white !important;
+    font-size:3vw;
+}
+
+
+input[type=password]::-webkit-input-placeholder {
+    color: white !important;
+    font-size: 3vw;
+}
+
+.col-6 input[type=submit]{
+
+color:black;
+background-color:#fff568;
+margin-left:24vw;
+font-size:1.5vw;
+}
+
+.col-6 p {
+color:white;
+font-size:10vh;
+padding-top:15vh;
+padding-left:8vw;
+}

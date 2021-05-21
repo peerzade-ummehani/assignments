@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login_page_with_Bootstrap", "Login_page_with_Bootstrap\Login_page_with_Bootstrap.csproj", "{77729381-9C3B-44D7-B36F-C594456FBCA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77729381-9C3B-44D7-B36F-C594456FBCA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77729381-9C3B-44D7-B36F-C594456FBCA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77729381-9C3B-44D7-B36F-C594456FBCA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77729381-9C3B-44D7-B36F-C594456FBCA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B5ADA19-23CB-408C-B59B-4A983152A07D}
+	EndGlobalSection
+EndGlobal

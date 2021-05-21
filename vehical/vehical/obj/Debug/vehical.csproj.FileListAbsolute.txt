@@ -1,0 +1,10 @@
+C:\Users\Anam Peerzada\Desktop\crash course\vehical\vehical\bin\Debug\vehical.exe.config
+C:\Users\Anam Peerzada\Desktop\crash course\vehical\vehical\bin\Debug\vehical.exe
+C:\Users\Anam Peerzada\Desktop\crash course\vehical\vehical\bin\Debug\vehical.pdb
+C:\Users\Anam Peerzada\Desktop\crash course\vehical\vehical\obj\Debug\vehical.csprojAssemblyReference.cache
+C:\Users\Anam Peerzada\Desktop\crash course\vehical\vehical\obj\Debug\vehical.Form1.resources
+C:\Users\Anam Peerzada\Desktop\crash course\vehical\vehical\obj\Debug\vehical.Properties.Resources.resources
+C:\Users\Anam Peerzada\Desktop\crash course\vehical\vehical\obj\Debug\vehical.csproj.GenerateResource.cache
+C:\Users\Anam Peerzada\Desktop\crash course\vehical\vehical\obj\Debug\vehical.csproj.CoreCompileInputs.cache
+C:\Users\Anam Peerzada\Desktop\crash course\vehical\vehical\obj\Debug\vehical.exe
+C:\Users\Anam Peerzada\Desktop\crash course\vehical\vehical\obj\Debug\vehical.pdb
